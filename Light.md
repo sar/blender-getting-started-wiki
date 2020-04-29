@@ -12,20 +12,6 @@
 1. World Properties
     1. Surface, Color (e.g. Blue)
 
-## For better preview…
-* Render Properties
-    * 📷 Ambient Occlusion
-    * 📷 Bloom
-    * 📷 Screen Space Reflections
-
-Sampling
-+ Path Tracing — Render 512
-
-Light Paths (to avoid fireflies)
-+ Clamping
-+ Direct 5.0
-Indirect 2.0
-
 ## Add Glow
 
 Add Filter — Glare
