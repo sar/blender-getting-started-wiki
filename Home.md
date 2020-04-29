@@ -28,6 +28,11 @@ Subdivide, right click, “Subdivide”
 
 + Apply modifiers… Select target, SHIFT select source, CMD + L — Modifiers (Creates Linked duplicate of some aspect)
 
+## Select Object
+
+Select object
+SHIFT + G
+
 ## Hard Surface Modelling — Surface Division, Rounded Objects
 1. Right click object — Shade smooth
 2. Add Subdivision Modifier
