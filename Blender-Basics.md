@@ -1,5 +1,3 @@
-# Quick Start Guide
-
 ## General
 
 FN + F3 Search for command
