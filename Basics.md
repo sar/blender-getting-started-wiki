@@ -180,13 +180,6 @@ select cursor to selected SHIFT + S
 Delete x + delete
 Hide/Show h/ALT + h
 
-## MATERIAL
-
-## WATER
-Roughness (Reflection) 0.15
-Transmission (Transparency) 0.9
-IOR (Refraction?! Volume, magnifying, water depth) 
-
 ## RENDERING GPU
 
 Render Properties, Render Engine
