@@ -1,3 +1,15 @@
+# Room
+
+💡Pivot Point on bottom, to allow scaling on floor By.
+
+Put 3D Cursor on floor SHIFT + Right
+Create plain object
+Move in object mode, to keep origin at center of object
+Move cursor to selected
+Walls
+
+Plane scale x4.0 Wall Extrude 0.15 Windows Inset — Loop cut — Individual Insets (i) .15
+
 # LIGHT
 
 1. Sun
@@ -51,13 +63,3 @@ using Volume Shader
 + Add “Volume”
 + Volume — Volume Scatter
 + Density 0.025
-
-## Rendering
-
-+ Denoising View Layer Properties, Denoising!!
-+ Render Properties, Color Management, Medium High Contrast
-
-## Render selection
-1. CTRL + B Select area
-2. F12 Render
-3. OPT + CMD + B Clear Selection
