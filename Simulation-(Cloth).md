@@ -7,6 +7,7 @@ Fabric
 1. Add Plane
 1. Subdivide
 1. Add Cloth
+1. Enable collide with self
 1. Bake
 
 + Animate
