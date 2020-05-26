@@ -13,3 +13,8 @@ Fabric
 + Animate
 
 <img width="583" alt="Screenshot 2020-05-26 at 16 14 49" src="https://user-images.githubusercontent.com/120928/82871468-94cd7a80-9f6c-11ea-96e2-18b54ed9aee3.png">
+
+Hang cloth 
+
+1. Subdivide
+1. CTRL + TAB — Weight Paint point of hanging
