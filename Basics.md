@@ -139,7 +139,8 @@ Bevel CTRL + B, v vertex only
 
 ## CAMERA
 0 Camera View
-Add Camera – N Show sidepanel – 30.609 m, -30.609 m, 30.609 m
+Add Camera – N 
+Show sidepanel – 30.609 m, -30.609 m, 30.609 m
 Camera Properties — Orthographic Scale
 
 ## Emitter
