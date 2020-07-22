@@ -3,6 +3,11 @@
 + Denoising View Layer Properties, Denoising!!
 + Render Properties, Color Management, Medium High Contrast
 
+## White background
+1. Render Properties — Film — Transparent x
+1. Render Properties — Color Managemnt — View Transform — Standard
+1. Compositing — Add "Alpha Over" — Switch Image + Premul 1000
+
 ## For better preview…
 * Render Properties
     * 📷 Ambient Occlusion
