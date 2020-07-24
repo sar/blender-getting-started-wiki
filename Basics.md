@@ -34,7 +34,7 @@ SHIFT + G
 ## Hard Surface Modelling — Surface Division, Rounded Objects
 1. Right click object — Shade smooth
 2. Add Subdivision Modifier
-3. Add loop cuts to add rounding constraints
+3. Add loop cuts to add rounding constraints ⌃ + r
 
 💡Without face, hard edge
 
