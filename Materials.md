@@ -1,3 +1,8 @@
+## Metallic
+
+* Roughness
+* Base colour
+
 ## Glass
 
 * Transmission _1.0_
@@ -8,3 +13,6 @@
 
 * Volume _Volume Absorption_
 * Denity _145.0_
+
+## Food, Skin
+* Subsurface
