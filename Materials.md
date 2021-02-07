@@ -12,7 +12,8 @@
 ## Liquid
 
 * Volume _Volume Absorption_
-* Denity _145.0_
+* Color (lightest color, density will do darkening)
+* Density _145.0_
 
 ## Food, Skin
 * Subsurface
