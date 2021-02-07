@@ -1,18 +1,16 @@
 ## General
-
 FN + F3 Search for command
 
 ## Viewport
+* Rotate OPT + Drag
+* Pan SHIFT + OPT + Drag
+* Zoom CMD + Scroll
+* Zoom to Selection SHIFT + B
 
-Rotate OPT + Drag
-Pan SHIFT + OPT + Drag
-Zoom CMD + Scroll
-Zoom to Selection SHIFT + B
-
-Select all A
-Insert I 
-
-Subdivide, right click, “Subdivide”
+## Model
+* Select all A
+* Insert I 
+* Subdivide, right click, “Subdivide”
 
 ## Create Object
 + Create flat object (circle, plane instead of box) to start with Pivot at bottom!!
