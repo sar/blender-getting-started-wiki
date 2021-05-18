@@ -159,11 +159,11 @@ N Show sidepanel
 
 ## 3D CURSOR
 
-SHIFT + Right Mousebuggon Move
-select cursor to selected SHIFT + S 
-!!Reset Cursor to center, SHIFT C
-Delete x + delete
-Hide/Show h/ALT + h
+* SHIFT + S select cursor to selected 
+* SHIFT + Right Mousebuggon Move
+* !!Reset Cursor to center, SHIFT C
+* Delete x + delete
+* Hide/Show h/ALT + h
 
 ## RENDERING GPU
 
