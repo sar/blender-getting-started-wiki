@@ -16,4 +16,4 @@
 * Density _145.0_
 
 ## Food, Skin
-* Subsurface
+* Subsurface (Skin, Food/Shine through)
