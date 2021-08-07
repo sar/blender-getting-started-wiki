@@ -17,3 +17,7 @@
 
 ## Food, Skin
 * Subsurface (Skin, Food/Shine through)
+
+## Replacement Areas
+* Shader/Material Holdout
+* Render Enable transparency
