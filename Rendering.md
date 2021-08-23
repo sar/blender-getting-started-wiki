@@ -8,6 +8,9 @@
 1. Render Properties — Color Managemnt — View Transform — Standard
 1. Compositing — Add "Alpha Over" — Switch Image + Premul 1000
 
+## Auto Save Render Script
+https://developer.blender.org/F10315955
+
 ## For better preview…
 * Render Properties
     * 📷 Ambient Occlusion
