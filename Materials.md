@@ -19,5 +19,7 @@
 * Subsurface (Skin, Food/Shine through)
 
 ## Replacement Areas
-* Shader/Material Holdout
-* Render Enable transparency
+https://www.youtube.com/watch?v=fJtaboOKxeE
+1 Select object to make transparent
+2 Object Properties - Visibility - Mask - Holdout
+3 Render Properties - Film - Transparent
