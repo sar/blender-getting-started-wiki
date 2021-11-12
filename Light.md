@@ -1,3 +1,10 @@
+Remove light object while keeping the emitted light
++ Select
++ Object properties
++ 
+camera
+ray visibilllllllllllll
+
 # LIGHT
 
 1. Sun
